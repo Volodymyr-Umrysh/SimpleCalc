@@ -1,6 +1,8 @@
-/* div{
-    border: 1px solid #000;
-} */
+.openCalc{
+    margin-top: 35px;
+    height: 42px;
+    width: 135px;
+}
 .inputNumbers1, .inputNumbers2, .inputNumbers3, .table, .chooseAction{
     display: flex;
     margin: 10px;
@@ -29,7 +31,7 @@
 }
 .input-group{
     margin-left: 15px;
-    width: 210px;
+    
 }
 .check{
     border: 3px solid #17a2b8;
@@ -43,10 +45,12 @@
 .inputs{
     border: 3px solid #17a2b8;
     height: 210px;
-    width: 850px;
+  
 }
 .result1, .result2, .result3{
+    background-color: white;
     border: 3px solid #17a2b8;
+    margin-right: 8px;
     height: 38px;
     width: 120px;
     margin-left: 15px;
@@ -54,4 +58,11 @@
 }
 .checkBoxs{
     padding-top: 23px;
+}
+#result{
+    margin-left: 38px;
+}
+.modal-title, h3{
+    margin-left: 30px;
+    color: #17a2b8;
 }
