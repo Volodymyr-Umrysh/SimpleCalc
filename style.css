@@ -1,0 +1,57 @@
+/* div{
+    border: 1px solid #000;
+} */
+.inputNumbers1, .inputNumbers2, .inputNumbers3, .table, .chooseAction{
+    display: flex;
+    margin: 10px;
+    
+}
+.inputNumbers1, .inputNumbers2, .inputNumbers3{
+    height: 56px;
+    padding-top: 8px;
+}
+
+.multiply{
+    margin-left: 20px;
+    border: 3px solid #17a2b8;
+    height: 40px;
+    width: 100px;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.sum{
+    margin-left: 20px;
+    border: 3px solid #17a2b8;
+    height: 40px;
+    width: 100px;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.input-group{
+    margin-left: 15px;
+    width: 210px;
+}
+.check{
+    border: 3px solid #17a2b8;
+    height: 124px;
+    width: 40px;
+    margin-top: 42px;
+    margin-right: -2px;
+    text-align: center;
+    
+}
+.inputs{
+    border: 3px solid #17a2b8;
+    height: 210px;
+    width: 850px;
+}
+.result1, .result2, .result3{
+    border: 3px solid #17a2b8;
+    height: 38px;
+    width: 120px;
+    margin-left: 15px;
+    text-align: center;
+}
+.checkBoxs{
+    padding-top: 23px;
+}
