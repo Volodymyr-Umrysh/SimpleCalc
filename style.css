@@ -1,68 +1,73 @@
-.openCalc{
-    margin-top: 35px;
-    height: 42px;
-    width: 135px;
+.openCalc {
+  margin-top: 35px;
+  height: 42px;
+  width: 135px;
 }
-.inputNumbers1, .inputNumbers2, .inputNumbers3, .table, .chooseAction{
-    display: flex;
-    margin: 10px;
-    
+.inputNumbers1,
+.inputNumbers2,
+.inputNumbers3,
+.table,
+.chooseAction {
+  display: flex;
+  margin: 10px;
 }
-.inputNumbers1, .inputNumbers2, .inputNumbers3{
-    height: 56px;
-    padding-top: 8px;
+.inputNumbers1,
+.inputNumbers2,
+.inputNumbers3 {
+  height: 56px;
+  padding-top: 8px;
 }
 
-.multiply{
-    margin-left: 20px;
-    border: 3px solid #17a2b8;
-    height: 40px;
-    width: 100px;
-    padding-left: 30px;
-    padding-top: 5px;
+.multiply {
+  margin-left: 20px;
+  border: 3px solid #17a2b8;
+  height: 40px;
+  width: 100px;
+  padding-left: 30px;
+  padding-top: 5px;
 }
-.sum{
-    margin-left: 20px;
-    border: 3px solid #17a2b8;
-    height: 40px;
-    width: 100px;
-    padding-left: 30px;
-    padding-top: 5px;
+.sum {
+  margin-left: 20px;
+  border: 3px solid #17a2b8;
+  height: 40px;
+  width: 100px;
+  padding-left: 30px;
+  padding-top: 5px;
 }
-.input-group{
-    margin-left: 15px;
-    
+.input-group {
+  margin-left: 15px;
 }
-.check{
-    border: 3px solid #17a2b8;
-    height: 124px;
-    width: 40px;
-    margin-top: 42px;
-    margin-right: -2px;
-    text-align: center;
-    
+.check {
+  border: 3px solid #17a2b8;
+  height: 124px;
+  width: 40px;
+  margin-top: 42px;
+  margin-right: -2px;
+  text-align: center;
 }
-.inputs{
-    border: 3px solid #17a2b8;
-    height: 210px;
-  
+.inputs {
+  border: 3px solid #17a2b8;
+  height: 210px;
 }
-.result1, .result2, .result3{
-    background-color: white;
-    border: 3px solid #17a2b8;
-    margin-right: 8px;
-    height: 38px;
-    width: 120px;
-    margin-left: 15px;
-    text-align: center;
+.result1,
+.result2,
+.result3 {
+  background-color: white;
+  border: 3px solid #17a2b8;
+  margin-right: 8px;
+  height: 38px;
+  width: 120px;
+  margin-left: 15px;
+  text-align: center;
 }
-.checkBoxs{
-    padding-top: 23px;
+.checkBoxs {
+  padding-top: 23px;
 }
-#result{
-    margin-left: 38px;
+#result {
+  margin-left: 38px;
 }
-.modal-title, h3{
-    margin-left: 30px;
-    color: #17a2b8;
+.modal-title,
+h3 {
+  margin-left: 30px;
+  color: #17a2b8;
 }
